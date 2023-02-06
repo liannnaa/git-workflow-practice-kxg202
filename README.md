@@ -6,4 +6,4 @@ I found this article interesting because it talks about the real-life effects of
 
 # Comment
 While its nice that they are trying to prevent ChatGPT from being used as a tool to cheat, unfortunately I believe that this is a problem that is too complex to be solved. As of right now, ChatGPT has a lot of flaws that should be addressed involving the accuracy of its answers. Knowing this, I have very high doubts that the cheat detection tool is advanced enough to make a significant impact on the use of ChatGPT for students. It seems like the most effective way to prevent cheating would be to compare student answers to the answers given by ChatGPT. But that is something that doesn't involve changing the way ChatGPT works.
-###### Lianna Poblete
+###### -Lianna Poblete
